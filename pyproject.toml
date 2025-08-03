@@ -1,6 +1,6 @@
 [project]
 name = "nice-errors"
-version = "1.0.5"
+version = "1.0.9"
 description = "Nice error messages for Python"
 readme = "README.md"
 requires-python = ">=3.9"
